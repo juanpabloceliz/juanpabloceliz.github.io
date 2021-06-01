@@ -79,7 +79,7 @@ footer a {
 @media (max-width: 768px) {
   main {
     max-width: 300px;
-    margin: 30vh 0 30vh;
+    margin: 30vh 0 25vh;
   }
   h1 {
     font-size: 18px;
